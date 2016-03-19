@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1429468471 source:c:\hplace\college\ds\project\design\duckhunt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<time.h>
+	"hashTable.h"
+	"wild_card.h"
+
+1429467014 c:\hplace\college\ds\project\design\duckhunt\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bucket.h"
+
+1429467003 c:\hplace\college\ds\project\design\duckhunt\bucket.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1429466992 c:\hplace\college\ds\project\design\duckhunt\list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1429468572 c:\hplace\college\ds\project\design\duckhunt\wild_card.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
